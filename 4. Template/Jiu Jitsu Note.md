@@ -1,7 +1,5 @@
 Tags:
 
-# **{{Title}}**
-
 ### Do This!
 - Why?
 
